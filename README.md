@@ -1,4 +1,12 @@
 # User-User-collaborative-Jokes-Recommender-System
+
+Dataset purpose:
+This link contains different versions of the Jester dataset, which contains user ratings about jokes.
+Download the Dataset 3 variant (2.3 million ratings), read the data description carefully to
+understand the file structure.
+
+jester dataset link:https://eigentaste.berkeley.edu/dataset/
+
 Objectives:
 • Your task is to design a user-user collaborative Jokes Recommender System using the
 concepts studied in the course only.
